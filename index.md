@@ -11,7 +11,8 @@ deployment + cooperation between industry and academia
 
 Therefore, it complements the established conferences CASES and CODES+ISSS which have a wider and
 more academic research-spectrum. We also welcome work-in-progress papers of ongoing research
-projects and case studies from industrial applications
+projects and case studies from industrial applications.
+
 Topics for workshop submissions include, but are not limited to:
 * Optimization techniques and performance estimation of neural networks on embedded systems: e.g. compression, quantization techniques, Virtual Prototyping
 * Compilers for Embedded AI: Partitioning, μC, heterogeneous systems, intermediate representations or (domain specific) languages
