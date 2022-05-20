@@ -28,12 +28,11 @@ t.b.d
 * Academic Keynote: Dr. Tianqui Chen, Assistant Professor, Carnegie Mellon
 * Industrial Keynote: Dr. Kailash Gopalakrishnan, Research Fellow, IBM
 
-## Organizers
-Organization Committee - confirmed
+### Organization Committee
 * Michael J. Klaiber - Bosch Research, Germany
 * Sebastian Vogel - NXP Semiconductors, The Netherlands
 
-Program Committee - confirmed
+### Program Committee
 * Andreas Bytyn - Bosch Automotive Electronics, Germany
 * Andrew Reusch - OctoML, USA
 * Henk Corporaal, Floran de Putter - Eindhoven University of Technology, The Netherlands
