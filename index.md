@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# CODAI’22: Workshop on Compilers Deployment, and Tooling for Embedded AI 
+## at Embedded Systems Week ’22
 
-You can use the [editor on GitHub](https://github.com/LamChob/CODAI22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of the CODAI workshop is to coalesce the emerging energy in the AI compiler communities and
+AI accelerator communities focusing on Embedded AI in both academic and industrial research. These
+realms of research have the opportunity to deliver a pervasive and seamless end-to-end tooling that
+connects hardware and software development methodologies. This workshop mainly focus on:
+* Discussing new impulses for deployment of Neural Networks on low-end embedded systems
+* Cooperative development of (open-source) toolchains/frameworks for neural network
+deployment + cooperation between industry and academia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Therefore, it complements the established conferences CASES and CODES+ISSS which have a wider and
+more academic research-spectrum. We also welcome work-in-progress papers of ongoing research
+projects and case studies from industrial applications
+Topics for workshop submissions include, but are not limited to:
+* Optimization techniques and performance estimation of neural networks on embedded systems: e.g. compression, quantization techniques, Virtual Prototyping
+* Compilers for Embedded AI: Partitioning, μC, heterogeneous systems, intermediate representations or (domain specific) languages
+* Code-Generation and hardware-backends for AI accelerators - especially RISC-V appreciated
+* Applications: Processing of embedded vision, time-series data, etc
+* Novel brain-inspired algorithm for Edge-AI
+* Compiler and optimization techniques for beyond-von-Neumann AI accelerators
 
-### Markdown
+## Call For Papers
+t.b.d
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Keynotes
+* Academic Keynote: Dr. Tianqui Chen, Assistant Professor, Carnegie Mellon
+* Industrial Keynote: Dr. Kailash Gopalakrishnan, Research Fellow, IBM
 
-```markdown
-Syntax highlighted code block
+## Organizers
+Organization Committee - confirmed
+* Michael J. Klaiber - Bosch Research, Germany
+* Sebastian Vogel - NXP Semiconductors, The Netherlands
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LamChob/CODAI22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Program Committee - confirmed
+* Andreas Bytyn - Bosch Automotive Electronics, Germany
+* Andrew Reusch - OctoML, USA
+* Henk Corporaal, Floran de Putter - Eindhoven University of Technology, The Netherlands
+* Oliver Bringmann, Paul Palomero Bernardo - University of Tübingen, Germany
+* Deming Chen - University of Illinois Urbana Champaign, USA
+* Falk Rehm, Dennis Rieber, Christoph Schorn, Ingo Feldner - Bosch Research, Germany
+* Hussam Amrouch - University of Stuttgart, Germany
