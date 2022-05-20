@@ -5,13 +5,13 @@ The goal of the CODAI workshop is to coalesce the emerging energy in the AI comp
 AI accelerator communities focusing on Embedded AI in both academic and industrial research. These
 realms of research have the opportunity to deliver a pervasive and seamless end-to-end tooling that
 connects hardware and software development methodologies. This workshop mainly focus on:
+
 * Discussing new impulses for deployment of Neural Networks on low-end embedded systems
-* Cooperative development of (open-source) toolchains/frameworks for neural network
-deployment + cooperation between industry and academia
+* Cooperative development of (open-source) toolchains/frameworks for neural network deployment + cooperation between industry and academia.
 
 Therefore, it complements the established conferences CASES and CODES+ISSS which have a wider and
 more academic research-spectrum. We also welcome work-in-progress papers of ongoing research
-projects and case studies from industrial applications
+projects and case studies from industrial applications.
 Topics for workshop submissions include, but are not limited to:
 * Optimization techniques and performance estimation of neural networks on embedded systems: e.g. compression, quantization techniques, Virtual Prototyping
 * Compilers for Embedded AI: Partitioning, μC, heterogeneous systems, intermediate representations or (domain specific) languages
