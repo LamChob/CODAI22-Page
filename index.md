@@ -38,7 +38,8 @@ Topics for workshop submissions include, but are not limited to:
 [Paper submission](https://www.softconf.org)
 
 
-#Program
+# Program
+
 The **CODAI** program will consist of keynotes given by tech-leaders both from industry and academia, 
 and paper presentations.
 
@@ -48,7 +49,7 @@ and paper presentations.
 
 
 
-#Organization
+# Organization
 ### Organization Committee
 * Michael J. Klaiber - Bosch Research, Germany
 * Sebastian Vogel - NXP Semiconductors, The Netherlands
