@@ -2,6 +2,11 @@
 
 ![CODAI Logo](assets/images/logo.png)
 
+## News
+ - CODAI has been accepted at **Embedded Systems Week 2022** 
+
+## Overview
+
 **CODAI'22** is an  [Embedded Systems Week](https://esweek.org/ ) workshop to coalesce the emerging energy in the AI compiler communities and AI accelerator communities focusing on Edge AI in both academic and industrial research. These realms of research have the opportunity to deliver a pervasive and seamless end-to-end tooling that connects hardware and software development methodologies. This workshop mainly focuses on:
  - Discussing new impulses for deployment of Neural Networks on low-end embedded systems
  - Cooperative development of (open source) toolchains/frameworks for neural network deployment + cooperation between industry and academia
@@ -22,6 +27,8 @@ Topics for workshop submissions include, but are not limited to:
 
 ## Important Dates
  - **Paper submission deadline**: August 18th 2022 AOE
+ - **Acceptance notification**: September 8th, 2022
+ - **Camera-ready paper**: September 30th, 2022
  - **Workshop date**: October 13th 2022 
 
 ## Call For Papers
@@ -41,7 +48,7 @@ and paper presentations.
 
 
 
-
+#Organization
 ### Organization Committee
 * Michael J. Klaiber - Bosch Research, Germany
 * Sebastian Vogel - NXP Semiconductors, The Netherlands
