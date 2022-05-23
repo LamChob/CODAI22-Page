@@ -1,6 +1,5 @@
-# **CODAI’22**: Workshop on Compilers, Deployment, and Tooling for Edge AI
-
-![CODAI Logo](assets/images/logo.png)
+# **CODAI’22**: Workshop on Compilers, Deployment, and Tooling for Edge AI 
+![CODAI Logo](assets/images/logo.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## News
  - CODAI has been accepted at **Embedded Systems Week 2022** 
@@ -48,7 +47,7 @@ and paper presentations.
 
 
 
-#Organization
+# Organization
 ### Organization Committee
 * Michael J. Klaiber - Bosch Research, Germany
 * Sebastian Vogel - NXP Semiconductors, The Netherlands
