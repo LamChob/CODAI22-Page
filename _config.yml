@@ -1,2 +1,3 @@
 theme: jekyll-theme-slate
-title: [CODAI'22 Workshop <img src="/assets/images/logo.png">]
+logo: /assets/images/logo.png
+title: [CODAI'22 Workshop]
