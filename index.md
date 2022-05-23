@@ -1,4 +1,5 @@
 # CODAI’22: Workshop on Compilers Deployment, and Tooling for Embedded AI 
+![CODAI Logo](/assets/images/logo.png)
 ## at Embedded Systems Week ’22
 
 The goal of the CODAI workshop is to coalesce the emerging energy in the AI compiler communities and
@@ -40,3 +41,7 @@ t.b.d
 * Deming Chen - University of Illinois Urbana Champaign, USA
 * Falk Rehm, Dennis Rieber, Christoph Schorn, Ingo Feldner - Bosch Research, Germany
 * Hussam Amrouch - University of Stuttgart, Germany
+
+
+
+Logo by <a href="https://www.flaticon.com/free-icons/compiler" title="Logo">Parzival’ 1997</a>
