@@ -44,4 +44,4 @@ t.b.d
 
 
 
-Logo by <a href="https://www.flaticon.com/free-icons/compiler" title="Logo">Parzival’ 1997</a>
+Logo by <a href="https://www.flaticon.com/authors/parzival-1997" title="Logo">Parzival’ 1997</a>
