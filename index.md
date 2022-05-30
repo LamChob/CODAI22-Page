@@ -1,5 +1,5 @@
 ## News
- - March 12th 2022: CODAI has been accepted at **Embedded Systems Week 2022**
+ - May 12th 2022: CODAI has been accepted at **Embedded Systems Week 2022**
 
 ## Overview
 
