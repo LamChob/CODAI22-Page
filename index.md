@@ -1,9 +1,5 @@
-# **CODAI’22**: Workshop on Compilers, Deployment, and Tooling for Edge AI
-
-![CODAI Logo](assets/images/logo.png)
-
 ## News
- - CODAI has been accepted at **Embedded Systems Week 2022** 
+ - March 12th 2022: CODAI has been accepted at **Embedded Systems Week 2022**
 
 ## Overview
 
@@ -55,15 +51,15 @@ and paper presentations.
 * Sebastian Vogel - NXP Semiconductors, The Netherlands
 
 ### Program Committee
+* Deming Chen - University of Illinois Urbana Champaign, USA
 * Andreas Bytyn - Bosch Automotive Electronics, Germany
 * Andrew Reusch - OctoML, USA
-* Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Floran de Putter - Eindhoven University of Technology, The Netherlands
-* Oliver Bringmann - University of Tübingen, Germany
 * Paul Palomero Bernardo - University of Tübingen, Germany
-* Deming Chen - University of Illinois Urbana Champaign, USA
+* Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Falk Rehm - Bosch Research, Germany
 * Dennis Rieber - Bosch Research, Germany
+* Oliver Bringmann - University of Tübingen, Germany
 * Christoph Schorn - Bosch Research, Germany
 * Ingo Feldner - Bosch Research, Germany
 * Hussam Amrouch - University of Stuttgart, Germany
