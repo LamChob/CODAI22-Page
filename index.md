@@ -22,10 +22,10 @@ Topics for workshop submissions include, but are not limited to:
 **CODAI'22** will take place on *October 13th 2022* as virtual workshop.
 
 ## Important Dates
- - **Paper submission deadline**: August 18th 2022 AOE
- - **Acceptance notification**: September 8th, 2022
- - **Camera-ready paper**: September 30th, 2022
- - **Workshop date**: October 13th 2022 
+ - **Paper submission deadline**: August 18<sup>th</sup> 2022 AOE
+ - **Acceptance notification**: September 8<sup>th</sup>, 2022
+ - **Camera-ready paper**: September 30<sup>th</sup>, 2022
+ - **Workshop date**: October 13<sup>th</sup> 2022 
 
 ## Call For Papers
 [Call for papers for CODAI'22 workshop](assets/documents/codai22_cfp.pdf)
