@@ -56,7 +56,9 @@ and paper presentations.
 * Deming Chen - University of Illinois Urbana Champaign, USA
 * Andreas Bytyn - Bosch Automotive Electronics, Germany
 * Andrew Reusch - OctoML, USA
+* Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Floran de Putter - Eindhoven University of Technology, The Netherlands
+* Oliver Bringmann - University of Tübingen, Germany
 * Paul Palomero Bernardo - University of Tübingen, Germany
 * Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Falk Rehm - Bosch Research, Germany
