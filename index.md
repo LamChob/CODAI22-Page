@@ -1,8 +1,5 @@
-# **CODAI’22**: Workshop on Compilers, Deployment, and Tooling for Edge AI 
-![CODAI Logo](assets/images/logo.png){:style="display:block; margin-left:auto; margin-right:auto"}
-
 ## News
- - CODAI has been accepted at **Embedded Systems Week 2022** 
+ - May 12<sup>th</sup> 2022: CODAI has been accepted at **Embedded Systems Week 2022**
 
 ## Overview
 
@@ -15,26 +12,28 @@ We also welcome work-in-progress papers of ongoing research projects and case st
 
 Topics for workshop submissions include, but are not limited to:
 
- - Optimization techniques and performance estimation of neural networks on embedded systems: e.g., compression, quantization techniques, virtual prototyping 
- - Compilers for Edge AI: partitioning, µC, heterogeneous systems,  intermediate representations or (domain specific) languages 
- - Code-generation and hardware-backends for AI accelerators - especially for RISC-V is appreciated 
- - Applications: processing of embedded vision, time-series data, etc. 
- - Novel brain-inspired algorithm for Edge-AI 
- - Compiler and optimization techniques for beyond-von-Neumann AI accelerators
+ - Optimization techniques of neural networks on embedded edge systems: **compression, pruning, quantization techniques,
+  hardware/compiler-aware neural architecture search**, etc.
+ - Performance estimation of neural networks on embedded systems: **virtual prototyping, surrogate modeling, profiling** etc.
+ - Compilers for Edge AI: **partitioning, mapping, retargeting, intermediate representations, 
+   for heterogeneous systems and architectures, µC, DSP** etc.
+ - Code-generation and compiler-backends for AI accelerators - especially for **RISC-V**
+  and **beyond-von-Neumann AI accelerators** is appreciated
+ - Applications: processing of **embedded vision, sensor signal processing, novel brain-inspired algorithms for Edge AI** etc.
 
-**CODAI'22** will take place on *October 13th 2022* as virtual workshop.
+**CODAI'22** will take place on *October 13<sup>th</sup> 2022* as virtual workshop.
 
 ## Important Dates
- - **Paper submission deadline**: August 18th 2022 AOE
- - **Acceptance notification**: September 8th, 2022
- - **Camera-ready paper**: September 30th, 2022
- - **Workshop date**: October 13th 2022 
+ - **Paper submission deadline**: August 18<sup>th</sup> 2022 AOE
+ - **Acceptance notification**: September 8<sup>th</sup>, 2022
+ - **Camera-ready paper**: September 30<sup>th</sup>, 2022
+ - **Workshop date**: October 13<sup>th</sup> 2022 
 
 ## Call For Papers
 [Call for papers for CODAI'22 workshop](assets/documents/codai22_cfp.pdf)
 
 ## Paper Submission
-[Paper submission](https://www.softconf.org)
+[Paper submission](https://easychair.org/)
 
 
 # Program
@@ -54,19 +53,28 @@ and paper presentations.
 * Sebastian Vogel - NXP Semiconductors, The Netherlands
 
 ### Program Committee
+* Deming Chen - University of Illinois Urbana Champaign, USA
 * Andreas Bytyn - Bosch Automotive Electronics, Germany
 * Andrew Reusch - OctoML, USA
 * Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Floran de Putter - Eindhoven University of Technology, The Netherlands
 * Oliver Bringmann - University of Tübingen, Germany
 * Paul Palomero Bernardo - University of Tübingen, Germany
-* Deming Chen - University of Illinois Urbana Champaign, USA
+* Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Falk Rehm - Bosch Research, Germany
 * Dennis Rieber - Bosch Research, Germany
+* Oliver Bringmann - University of Tübingen, Germany
 * Christoph Schorn - Bosch Research, Germany
 * Ingo Feldner - Bosch Research, Germany
 * Hussam Amrouch - University of Stuttgart, Germany
 
+### Contact
+
+For questions contact:
+
+Dr. Michael J. Klaiber, Bosch Research, Germany
+
+E-Mail: michael (dot) klaiber (a) de.bosch.com
 
 
 Logo by <a href="https://www.flaticon.com/authors/parzival-1997" title="Logo">Parzival’ 1997</a>

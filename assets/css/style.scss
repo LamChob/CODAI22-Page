@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.logo_position{
+        position: absolute;
+        top: 50px;
+        right: 50px
+}
