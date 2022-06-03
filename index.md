@@ -33,7 +33,7 @@ Topics for workshop submissions include, but are not limited to:
 [Call for papers for CODAI'22 workshop](assets/documents/codai22_cfp.pdf)
 
 ## Paper Submission
-[Paper submission](https://easychair.org/)
+[Paper submission](https://easychair.org/conferences/?conf=codai22)
 
 
 # Program
