@@ -63,7 +63,6 @@ and paper presentations.
 * Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Falk Rehm - Bosch Research, Germany
 * Dennis Rieber - Bosch Research, Germany
-* Oliver Bringmann - University of Tübingen, Germany
 * Christoph Schorn - Bosch Research, Germany
 * Ingo Feldner - Bosch Research, Germany
 * Hussam Amrouch - University of Stuttgart, Germany
