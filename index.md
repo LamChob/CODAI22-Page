@@ -1,4 +1,5 @@
 ## News
+ - June 8<sup>th</sup> 2022: [Call for papers for CODAI'22 workshop](assets/documents/codai22_cfp.pdf) published
  - May 12<sup>th</sup> 2022: CODAI has been accepted at **Embedded Systems Week 2022**
 
 ## Overview
@@ -60,7 +61,6 @@ and paper presentations.
 * Floran de Putter - Eindhoven University of Technology, The Netherlands
 * Oliver Bringmann - University of Tübingen, Germany
 * Paul Palomero Bernardo - University of Tübingen, Germany
-* Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Falk Rehm - Bosch Research, Germany
 * Dennis Rieber - Bosch Research, Germany
 * Christoph Schorn - Bosch Research, Germany
