@@ -9,7 +9,16 @@
 }
 
 .logo_position{
-        position: absolute;
-        top: 50px;
-        right: 50px
+    width: 20%;
+    max-width: 200px;
+}
+
+.page-header {
+    min-height: 350x;
+    width: 100%;
+}
+
+.page-header-text {
+    width: 66.667%;
+    float: left;
 }
