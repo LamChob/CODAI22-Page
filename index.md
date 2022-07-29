@@ -58,6 +58,7 @@ and paper presentations.
 * Andreas Bytyn - Bosch Automotive Electronics, Germany
 * Andrew Reusch - OctoML, USA
 * Henk Corporaal - Eindhoven University of Technology, The Netherlands
+* Robert Nabholz - RB XC, Germany
 * Floran de Putter - Eindhoven University of Technology, The Netherlands
 * Oliver Bringmann - University of Tübingen, Germany
 * Paul Palomero Bernardo - University of Tübingen, Germany
@@ -66,6 +67,7 @@ and paper presentations.
 * Christoph Schorn - Bosch Research, Germany
 * Ingo Feldner - Bosch Research, Germany
 * Hussam Amrouch - University of Stuttgart, Germany
+* Dayane Reis, University of South Florida, USA
 
 ### Contact
 
@@ -73,7 +75,7 @@ For questions contact:
 
 Dr. Michael J. Klaiber, Bosch Research, Germany
 
-E-Mail: michael (dot) klaiber (a) de.bosch.com
+E-Mail: codai2022 (a) michael-klaiber.de
 
 
 Logo by <a href="https://www.flaticon.com/authors/parzival-1997" title="Logo">Parzival’ 1997</a>
