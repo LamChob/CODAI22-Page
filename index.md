@@ -1,4 +1,6 @@
 ## News
+ - August 18<sup>th</sup> 2022: Deadline extension 
+ - June 8<sup>th</sup> 2022: [Call for papers for CODAI'22 workshop](assets/documents/codai22_cfp.pdf) published
  - May 12<sup>th</sup> 2022: CODAI has been accepted at **Embedded Systems Week 2022**
 
 ## Overview
@@ -24,9 +26,10 @@ Topics for workshop submissions include, but are not limited to:
 **CODAI'22** will take place on *October 13<sup>th</sup> 2022* as virtual workshop.
 
 ## Important Dates
- - **Paper submission deadline**: August 18<sup>th</sup> 2022 AOE
- - **Acceptance notification**: September 8<sup>th</sup>, 2022
- - **Camera-ready paper**: September 30<sup>th</sup>, 2022
+ - **Abstract submission deadline**: August 25<sup>th</sup> 2022 AOE 
+ - **Paper submission deadline**: September 8<sup>th</sup> 2022 AOE  <s>August 18<sup>th</sup> 2022 AOE </s>
+ - **Acceptance notification**: September 22<sup>nd</sup>, 2022 <s>September 8<sup>th</sup>, 2022</s>
+ - **Camera-ready paper**: October 6<sup>th</sup>, 2022 <s>September 30<sup>th</sup>, 2022</s>
  - **Workshop date**: October 13<sup>th</sup> 2022 
 
 ## Call For Papers
@@ -45,7 +48,10 @@ and paper presentations.
 * Academic Keynote: Dr. Tianqui Chen, Assistant Professor, Carnegie Mellon
 * Industrial Keynote: Dr. Kailash Gopalakrishnan, Co-Founder & Executive, Ex-IBM Fellow
 
-
+## Registration
+ If you have registered the main conference, you can attend the workshop for free.
+ OOtherwise, you can attend the workshop by invitation for free.
+ [[Request invitation](mailto:codai-invitation@michael-klaiber.de)] 
 
 # Organization
 ### Organization Committee
@@ -57,15 +63,16 @@ and paper presentations.
 * Andreas Bytyn - Bosch Automotive Electronics, Germany
 * Andrew Reusch - OctoML, USA
 * Henk Corporaal - Eindhoven University of Technology, The Netherlands
+* Robert Nabholz - RB XC, Germany
 * Floran de Putter - Eindhoven University of Technology, The Netherlands
 * Oliver Bringmann - University of Tübingen, Germany
 * Paul Palomero Bernardo - University of Tübingen, Germany
-* Henk Corporaal - Eindhoven University of Technology, The Netherlands
 * Falk Rehm - Bosch Research, Germany
 * Dennis Rieber - Bosch Research, Germany
 * Christoph Schorn - Bosch Research, Germany
 * Ingo Feldner - Bosch Research, Germany
 * Hussam Amrouch - University of Stuttgart, Germany
+* Dayane Reis, University of South Florida, USA
 
 ### Contact
 
@@ -73,7 +80,7 @@ For questions contact:
 
 Dr. Michael J. Klaiber, Bosch Research, Germany
 
-E-Mail: michael (dot) klaiber (a) de.bosch.com
+E-Mail: codai2022 (a) michael-klaiber.de
 
 
 Logo by <a href="https://www.flaticon.com/authors/parzival-1997" title="Logo">Parzival’ 1997</a>
