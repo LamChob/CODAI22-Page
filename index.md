@@ -51,7 +51,7 @@ and paper presentations.
 ## Registration
  If you have registered the main conference, you can attend the workshop for free.
  OOtherwise, you can attend the workshop by invitation for free.
- [[Request invitation](mailto:codai-invitation@michael-klaiber.de)] 
+ [[Request invitation](https://docs.google.com/forms/d/e/1FAIpQLSdoLdRfJAso36fV7vTgVSJcl_Jwyfp5oykXN7mkz_oJdoDXrA/viewform?usp=pp_url)] 
 
 # Organization
 ### Organization Committee
