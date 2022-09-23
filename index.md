@@ -28,7 +28,7 @@ Topics for workshop submissions include, but are not limited to:
 ## Important Dates
  - **Abstract submission deadline**: August 25<sup>th</sup> 2022 AOE 
  - **Paper submission deadline**: September 8<sup>th</sup> 2022 AOE  <s>August 18<sup>th</sup> 2022 AOE </s>
- - **Acceptance notification**: September 22<sup>nd</sup>, 2022 <s>September 8<sup>th</sup>, 2022</s>
+ - **Acceptance notification**: September 26<sup>th</sup>, 2022 <s>September 22<sup>nd</sup>, 2022 </s> <s>September 8<sup>th</sup>, 2022</s>
  - **Camera-ready paper**: October 6<sup>th</sup>, 2022 <s>September 30<sup>th</sup>, 2022</s>
  - **Workshop date**: October 13<sup>th</sup> 2022 
 
