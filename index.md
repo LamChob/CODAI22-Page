@@ -31,8 +31,8 @@ Topics for workshop submissions include, but are not limited to:
 # Program
 **CODAI'22** will take place on *October 13<sup>th</sup> 2022* as virtual workshop.
 
-| PDT (LA) | EDT (NY) | CEST (Berlin) | CST (Shanghai) | Title                                                                                                     | Speaker                                                                                | Affiliation                                                                                          |
-|---------|----------|---------------|----------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| PDT (LA) | EDT (NY) | CEST (Berlin) | CST (Shanghai) | Title                                                                                                     | Speaker                                                                                | Affiliation                                                                                          |Slides
+|---------|----------|---------------|----------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------|
 | 7:00    | 10:00    | 16:00         | 22:00          | Introduction                                                                                              |                                                                                        |                                                                                                      |
 | 7:15    | 10:15    | 16:15         | 22:15          | Industrial Keynote                                                                                        | Kailash Gopalakrishnan                                                                 | EnCharge AI                                                                                          |
 | 8:05    | 11:05    | 17:05         | 23:05          | Performance models and energy-optimal mapping of DNNs on many-core hardware with dynamic power management | Bernhard Vogginger, Florian Kelber, Johannes Partzsch and Christian Mayr               | TU Dresden                                                                                           |
@@ -51,7 +51,7 @@ Topics for workshop submissions include, but are not limited to:
  - **Abstract submission deadline**: August 25<sup>th</sup> 2022 AOE 
  - **Paper submission deadline**: September 8<sup>th</sup> 2022 AOE  <s>August 18<sup>th</sup> 2022 AOE </s>
  - **Acceptance notification**: September 26<sup>th</sup>, 2022 <s>September 22<sup>nd</sup>, 2022 </s> <s>September 8<sup>th</sup>, 2022</s>
- - **Camera-ready paper**: October 6<sup>th</sup>, 2022 <s>September 30<sup>th</sup>, 2022</s>
+ - **Camera-ready paper**: October 7<sup>th</sup>, 2022 <s>September 30<sup>th</sup>, 2022</s>
  - **Workshop date**: October 13<sup>th</sup> 2022 
 
 ## Call For Papers
@@ -66,6 +66,15 @@ Topics for workshop submissions include, but are not limited to:
 
  If you have registered the main conference, you can attend the workshop for free.
  
+## Author Instructions
+
+- Submit camera-ready via Easychair by October 7<sup>th</sup>, 2022
+  - Use [IEEE Template](https://www.ieee.org/conferences/publishing/templates.html) 
+  - Paper must not exceed a length of 5 pages incl. references
+- Submit slides as PPT or PDF by October 12<sup>th</sup> 2022
+  - via Github pull request [here](https://github.com/LamChob/CODAI22)
+  - add link to index.md
+
 # Organization
 ### Organization Committee
 * Michael J. Klaiber - EnCharge AI
