@@ -100,7 +100,7 @@ Topics for workshop submissions include, but are not limited to:
 
 For questions contact:
 
-Dr. Michael J. Klaiber, Bosch Research, Germany
+Dr. Michael J. Klaiber, EnCharge AI
 
 E-Mail: codai2022 (a) michael-klaiber.de
 
