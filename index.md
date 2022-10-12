@@ -1,7 +1,10 @@
 ## News
+ - September 28<sup>th</sup> 2022: Program added
  - August 18<sup>th</sup> 2022: Deadline extension 
  - June 8<sup>th</sup> 2022: [Call for papers for CODAI'22 workshop](assets/documents/codai22_cfp.pdf) published
  - May 12<sup>th</sup> 2022: CODAI has been accepted at **Embedded Systems Week 2022**
+
+
 
 ## Overview
 
@@ -23,13 +26,32 @@ Topics for workshop submissions include, but are not limited to:
   and **beyond-von-Neumann AI accelerators** is appreciated
  - Applications: processing of **embedded vision, sensor signal processing, novel brain-inspired algorithms for Edge AI** etc.
 
+
+
+# Program
 **CODAI'22** will take place on *October 13<sup>th</sup> 2022* as virtual workshop.
+
+| PDT (LA) | EDT (NY) | CEST (Berlin) | CST (Shanghai) | Title                                                                                                     | Speaker                                                                                | Affiliation                                                                                          |Slides
+|---------|----------|---------------|----------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------|
+| 7:00    | 10:00    | 16:00         | 22:00          | Introduction                                                                                              |                                                                                        |                                                                                                      |
+| 7:15    | 10:15    | 16:15         | 22:15          | Industrial Keynote                                                                                        | Kailash Gopalakrishnan                                                                 | EnCharge AI                                                                                          |
+| 8:05    | 11:05    | 17:05         | 23:05          | Performance models and energy-optimal mapping of DNNs on many-core hardware with dynamic power management | Bernhard Vogginger, Florian Kelber, Johannes Partzsch and Christian Mayr               | TU Dresden                                                                                           |
+| 8:30    | 11:30    | 17:30         | 23:30          | HyT-NAS: Hybrid Transformers Neural Architecture Search for Edge Devices                                  | Lotfi Abdelkrim Mecharbat, Hadjer Benmeziane, Ouarnoughi Hamza and Smail Niar          | Ecole Nationale Supérieure d'Informatique, Hauts-de-France, Université Polytechnique Hauts-de-France |
+| 8:55    | 11:55    | 17:55         | 23:55          | Whole-model optimization with Apache TVM                                                                  | Andrew Reusch                                                                          | OctoML                                                                                               |
+| 9:20    | 12:20    | 18:20         | 0:20           | MLonMCU: TinyML Benchmarking with Fast Retargeting                                                        | Philipp van Kempen, Rafael Stahl, Daniel Müller-Gritschneder and Ulf Schlichtmann      | Technical University of Munich                                                                       |
+| 9:45    | 12:45    | 18:45         | 0:45           | Break                                                                                                     |                                                                                        |                                                                                                      |
+| 10:00   | 13:00    | 19:00         | 1:00           | Academic Keynote                                                                                          | Tianqi Chen                                                                            | Carnegie Mellon University                                                                           |
+| 10:50   | 13:50    | 19:50         | 1:50           | Embedded AI Challenges in Perception Systems                                                              | Miguel Aguilar                                                                         | Aptiv                                                                                                |
+| 11:15   | 14:15    | 20:15         | 2:15           | Integration of a systolic array based hardware accelerator into a DNN operator auto-tuning framework      | Federico Nicolás Peccia and Oliver Bringmann                                           | FZI Research Center for Information Technology, University of Tübingen                               |
+| 11:40   | 14:40    | 20:40         | 2:40           | Deploying Machine Learning Models to Ahead-of-Time Runtime on Edge Using MicroTVM                         | Chen Liu, Liyuan Guo, Xinyue Shi, Matthias Jobst, Johannes Partzsch and Christian Mayr | Chair of Highly-Parallel VLSI-Systems and Neuromorphic Circuits, TU Dresden                          |
+| 12:05   | 15:05    | 21:05         | 3:05           | Conclusion                                                                                                |                                                                                        |                                                                                                      |
+
 
 ## Important Dates
  - **Abstract submission deadline**: August 25<sup>th</sup> 2022 AOE 
  - **Paper submission deadline**: September 8<sup>th</sup> 2022 AOE  <s>August 18<sup>th</sup> 2022 AOE </s>
- - **Acceptance notification**: September 22<sup>nd</sup>, 2022 <s>September 8<sup>th</sup>, 2022</s>
- - **Camera-ready paper**: October 6<sup>th</sup>, 2022 <s>September 30<sup>th</sup>, 2022</s>
+ - **Acceptance notification**: September 26<sup>th</sup>, 2022 <s>September 22<sup>nd</sup>, 2022 </s> <s>September 8<sup>th</sup>, 2022</s>
+ - **Camera-ready paper**: October 7<sup>th</sup>, 2022 <s>September 30<sup>th</sup>, 2022</s>
  - **Workshop date**: October 13<sup>th</sup> 2022 
 
 ## Call For Papers
@@ -38,24 +60,24 @@ Topics for workshop submissions include, but are not limited to:
 ## Paper Submission
 [Paper submission](https://easychair.org/conferences/?conf=codai22)
 
-
-# Program
-
-The **CODAI** program will consist of keynotes given by tech-leaders both from industry and academia, 
-and paper presentations.
-
-## Keynotes
-* Academic Keynote: Dr. Tianqui Chen, Assistant Professor, Carnegie Mellon
-* Industrial Keynote: Dr. Kailash Gopalakrishnan, Co-Founder & Executive, Ex-IBM Fellow
-
 ## Registration
+
+[ESWEEK Registration](https://esweek.org/registration/) $15.75 / $20.00
+
  If you have registered the main conference, you can attend the workshop for free.
- OOtherwise, you can attend the workshop by invitation for free.
- [[Request invitation](mailto:codai-invitation@michael-klaiber.de)] 
+ 
+## Author Instructions
+
+- Submit camera-ready via Easychair by October 7<sup>th</sup>, 2022
+  - Use [IEEE Template](https://www.ieee.org/conferences/publishing/templates.html) 
+  - Paper must not exceed a length of 5 pages incl. references
+- Submit slides as PPT or PDF by October 12<sup>th</sup> 2022
+  - via Github pull request [here](https://github.com/LamChob/CODAI22)
+  - add link to index.md
 
 # Organization
 ### Organization Committee
-* Michael J. Klaiber - Bosch Research, Germany
+* Michael J. Klaiber - EnCharge AI
 * Sebastian Vogel - NXP Semiconductors, The Netherlands
 
 ### Program Committee
@@ -78,7 +100,7 @@ and paper presentations.
 
 For questions contact:
 
-Dr. Michael J. Klaiber, Bosch Research, Germany
+Dr. Michael J. Klaiber, EnCharge AI
 
 E-Mail: codai2022 (a) michael-klaiber.de
 
