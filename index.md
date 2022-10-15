@@ -1,4 +1,5 @@
 ## News
+ - October 15<sup>th</sup> 2022: Recordings added
  - September 28<sup>th</sup> 2022: Program added
  - August 18<sup>th</sup> 2022: Deadline extension 
  - June 8<sup>th</sup> 2022: [Call for papers for CODAI'22 workshop](assets/documents/codai22_cfp.pdf) published
@@ -29,7 +30,7 @@ Topics for workshop submissions include, but are not limited to:
 
 
 # Program
-**CODAI'22** will take place on *October 13<sup>th</sup> 2022* as virtual workshop.
+**CODAI'22** took place on *October 13<sup>th</sup> 2022* as virtual workshop.
 
 | Title                                                                                                     | Speaker                                                                                | Affiliation                                                                                          | Video                                                | Slides |
 |-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------|--------|
