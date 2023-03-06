@@ -56,13 +56,18 @@ t.b.d
 * Miguel Aguilar -  Aptiv, Germany
 
 ### Technical Program Committee
-* Sezgin Baloglou, SambaNova Systems, USA
-* Robert Nabholz, Robert Bosch GmbH, Germany
-* Oliver Bringmann, University of Tübingen, Germany
-* Andrew Reusch, OctoML, USA
-* Paul Palomero Bernardo, University of Tübingen, Germany
-* Fouad Sakr, Aptiv, Germany 
-* Shaahin Angizi, New Jersey Institute of Technology, USA
+* Oliver Bringmann, Paul Palomero Bernardo - University of Tübingen, Germany
+* Henk Corporaal, Floran de Putter - Eindhoven University of Technology, The Netherlands
+* Andrew Reusch - OctoML, USA
+* Robert Nabholz - Robert Bosch GmbH, Germany
+* Sezgin Baloglu - AMD, Germany
+* Fouad Sakr - Aptiv, Germany 
+* Shaahin Angizi - New Jersey Institute of Technology, USA
+* Manuele Rusci - KU Leuven, Belgium
+* Alessandro Capotondi, Università di Modena e Reggio Emilia, Italy
+* Andres Goens - University of Edinburgh, Scotland, United Kingdom
+* Lei Yang - George Mason University, USA 
+
 
 
 ### Contact
@@ -71,7 +76,7 @@ For questions contact:
 
 Dr. Michael J. Klaiber, EnCharge AI
 
-E-Mail: codai2022 (a) michael-klaiber.de
+E-Mail: codai2023 (a) michael-klaiber.de
 
 
 Logo by <a href="https://www.flaticon.com/authors/parzival-1997" title="Logo">Parzival’ 1997</a>
