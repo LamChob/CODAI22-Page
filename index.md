@@ -22,7 +22,7 @@ Topics for workshop submissions include, but are not limited to:
 ## Review
 CODAI 2022 was a great success with many contributions from academia, industry, and international tech leaders. We accepted five high-quality papers and were positively surprised by the quality and extensiveness of submitted papers (one paper even open sourced their code on GitHub after the notification of acceptance). 
 
-The recording of CODAI 2022 can be found on [YOUTUBE](https://www.youtube.com/watch?v=ynHhcUHGyUM). 
+The CODAI 2022 presentations can be found [here](./archive/2022). 
 
 # Program
 t.b.d
