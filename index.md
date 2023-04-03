@@ -1,5 +1,6 @@
 ## News
- - Februar 19<sup>th</sup> 2023: Page for CODAI 2023 Edition Live!
+ -  April 3<sup>rd</sup> 2023: Call for Papers is online
+ -  Februar 19<sup>th</sup> 2023: Page for CODAI 2023 Edition Live!
 
 
 ## Overview
@@ -25,7 +26,7 @@ CODAI 2022 was a great success with many contributions from academia, industry, 
 The CODAI 2022 presentations can be found [here](./archive/2022). 
 
 # Program
-t.b.d
+t.b.d.
 
 ## Important Dates
 - **Abstract submission deadline**: July 6<sup>th</sup>, 2023 at 23:59 AOE
@@ -37,13 +38,14 @@ t.b.d
 [Call for papers for CODAI'23 workshop](assets/documents/CODAI23_CFP.pdf)
 
 ## Paper Submission
-t.b.d
+t.b.d.
 
 ## Registration
-t.b.d
+t.b.d.
 
 ## Author Instructions
-t.b.d
+
+The proceeddings will be published on [arXiv.org](https://arxiv.org/). Additionally, we are currently in negotiation with IEEE/ACM to publish the proceedings additionally via [IEEExplore](https://ieeexplore.ieee.org)/[ACM-DL](https://dl.acm.org/). Updates on this matter will follow soon.
 
 # Organization
 ### Organization Committee
@@ -60,7 +62,7 @@ t.b.d
 * Henk Corporaal, Floran de Putter - Eindhoven University of Technology, The Netherlands
 * Andrew Reusch - OctoML, USA
 * Robert Nabholz - Robert Bosch GmbH, Germany
-* Sezgin Baloglu - AMD, Germany
+* Sezgin Baloglu - Germany
 * Fouad Sakr - Aptiv, Germany 
 * Shaahin Angizi - New Jersey Institute of Technology, USA
 * Manuele Rusci - KU Leuven, Belgium
