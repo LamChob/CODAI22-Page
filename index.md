@@ -38,7 +38,7 @@ t.b.d.
 [Call for papers for CODAI'23 workshop](assets/documents/CODAI23_CFP.pdf)
 
 ## Paper Submission
-t.b.d.
+[Submit](https://easychair.org/conferences/?conf=codai2023)
 
 ## Registration
 t.b.d.
@@ -81,4 +81,7 @@ Dr. Michael J. Klaiber, EnCharge AI
 E-Mail: codai2023 (a) michael-klaiber.de
 
 
-Logo by <a href="https://www.flaticon.com/authors/parzival-1997" title="Logo">Parzival’ 1997</a>
+
+ <sub>[Code of Conduct](https://www.apache.org/foundation/policies/conduct.html) | [Anti-Harrasment Policy](https://apache.org/foundation/policies/anti-harassment.html)  </sub>
+
+ <sub> Logo by <a href="https://www.flaticon.com/authors/parzival-1997" title="Logo">Parzival’ 1997</a>  </sub>
