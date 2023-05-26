@@ -45,6 +45,13 @@ t.b.d.
 ## Registration
 t.b.d.
 
+## Author Information
+
+All accepted contributions will be presented the CODAI Workshop 2023. Please be available for a 20 minute on-site presentation at ESWeek, followed by a 10 minute Q&A session. 
+If you can not make the trip, you have to record a video of your talk, which will be streamed during the event. Afterwards, please be availabe for the Q&A session via Zoom.
+All talks will be recorded and live-streamed in Zoom and YouTube. 
+
+
 ## Author Instructions
 
 The proceeddings will be published on [arXiv.org](https://arxiv.org/). Additionally, we are currently in negotiation with IEEE/ACM to publish the proceedings additionally via [IEEExplore](https://ieeexplore.ieee.org)/[ACM-DL](https://dl.acm.org/). Updates on this matter will follow soon.
