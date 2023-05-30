@@ -1,6 +1,7 @@
 # CODAI 2023
 
 ## News
+ -  May 303<sup>th</sup>: Date of the Workshop announced - September 21<sup>st</sup> 2023, 11:00 - 19:00 o'clock
  -  April 3<sup>rd</sup> 2023: Call for Papers is online
  -  Februar 19<sup>th</sup> 2023: Page for CODAI 2023 Edition Live!
 
@@ -35,6 +36,7 @@ t.b.d.
 - **Paper submission deadline**: July 13<sup>th</sup>, 2023 at 23:59 AOE
 - **Acceptance notification**: August 10<sup>th</sup>, 2023 at 23:59 AOE
 - **Camera-ready deadline**: August 24<sup>th</sup>, 2023 at 23:59 AOE
+- **Workshop**: September 21<sup>st</sup> 2023 at 11:00 until 19:00 CET
 
 ## Call For Papers
 [Call for papers for CODAI'23 workshop](assets/documents/CODAI23_CFP.pdf)
@@ -49,7 +51,7 @@ t.b.d.
 
 All accepted contributions will be presented the CODAI Workshop 2023. Please be available for a 20 minute on-site presentation at ESWeek, followed by a 10 minute Q&A session. 
 If you can not make the trip, you have to record a video of your talk, which will be streamed during the event. Afterwards, please be availabe for the Q&A session via Zoom.
-All talks will be recorded and live-streamed in Zoom and YouTube. 
+All talks will be recorded and live-streamed in Zoom and on YouTube. 
 
 
 ## Author Instructions
