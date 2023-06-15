@@ -58,6 +58,8 @@ All talks will be recorded and live-streamed in Zoom and on YouTube.
 
 The proceeddings will be published on [arXiv.org](https://arxiv.org/). Additionally, we are currently in negotiation with IEEE/ACM to publish the proceedings additionally via [IEEExplore](https://ieeexplore.ieee.org)/[ACM-DL](https://dl.acm.org/). Updates on this matter will follow soon.
 
+Please use the [IEEE Template](https://www.ieee.org/conferences/publishing/templates.html) for your manuscript. Your paper must not exceed a length of 4 pages excluding references.
+
 # Organization
 ### Organization Committee
 
