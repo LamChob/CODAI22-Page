@@ -1,7 +1,7 @@
 # CODAI 2023
 
 ## News
- -  July 2 <sup>nd</sup>: Deadline Extensions
+ -  July 2<sup>nd</sup>: Deadline Extensions
  -  May 30<sup>th</sup>: Date of the Workshop announced - September 21<sup>st</sup> 2023, 11:00 - 19:00 o'clock
  -  April 3<sup>rd</sup> 2023: Call for Papers is online
  -  Februar 19<sup>th</sup> 2023: Page for CODAI 2023 Edition Live!
