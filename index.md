@@ -1,6 +1,7 @@
 # CODAI 2023
 
 ## News
+ -  July 3<sup>nd</sup>: Registration for online participation is open
  -  July 2<sup>nd</sup>: Deadline Extensions
  -  May 30<sup>th</sup>: Date of the Workshop announced - September 21<sup>st</sup> 2023, 11:00 - 19:00 o'clock
  -  April 3<sup>rd</sup> 2023: Call for Papers is online
@@ -33,8 +34,8 @@ The CODAI 2022 presentations can be found [here](./archive/2022).
 t.b.d.
 
 ## Important Dates
-- **Abstract submission deadline**: ~~July 6<sup>th</sup>~~ July 13<sup>th</sup>, 2023 at 23:59 AOE
-- **Paper submission deadline**: ~~July 13<sup>th</sup>~~ July 20<sup>th</sup>, 2023 at 23:59 AOE
+- **Abstract submission deadline**: ~~July 6<sup>th</sup>~~ July 20<sup>th</sup>, 2023 at 23:59 AOE
+- **Paper submission deadline**: ~~July 13<sup>th</sup>~~ July 27<sup>th</sup>, 2023 at 23:59 AOE
 - **Acceptance notification**: August 10<sup>th</sup>, 2023 at 23:59 AOE
 - **Camera-ready deadline**: August 24<sup>th</sup>, 2023 at 23:59 AOE
 - **Workshop**: September 21<sup>st</sup> 2023 at 11:00 until 19:00 CET
@@ -46,7 +47,8 @@ t.b.d.
 [Submit](https://easychair.org/conferences/?conf=codai2023)
 
 ## Registration
-t.b.d.
+[Registration for online participation](https://forms.gle/Vo6rTqmKRi9BdLBh6)
+[Registration for on-site participation](https://esweek.org/) (Registration not yet opened)
 
 ## Author Information
 
