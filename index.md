@@ -73,6 +73,13 @@ Please use the [IEEE Template](https://www.ieee.org/conferences/publishing/templ
 * Dennis Rieber - Bosch Research, Germany
 * Miguel Aguilar -  Aptiv, Germany
 
+### Chairs
+For further questions, regarding specific contacts, contact:
+* On-site program chair: Dennis Rieber (DennisSebastian.Rieber(at)de.bosch.com)
+* Online program chair: Dayne Reis (dayane3(at)usf.edu)
+* Publicity/Marketing: Miguel Aguilar (miguel.a.aguilar(at)aptiv.com)
+
+
 ### Technical Program Committee
 * Oliver Bringmann, Paul Palomero Bernardo - University of Tübingen, Germany
 * Henk Corporaal, Floran de Putter - Eindhoven University of Technology, The Netherlands
