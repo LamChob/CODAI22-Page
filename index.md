@@ -74,10 +74,10 @@ Please use the [IEEE Template](https://www.ieee.org/conferences/publishing/templ
 * Miguel Aguilar -  Aptiv, Germany
 
 ### Chairs
-For further questions, regarding specific contacts, contact:
+For questions on specific topics, contact:
 * On-site program chair: Dennis Rieber (DennisSebastian.Rieber(at)de.bosch.com)
 * Online program chair: Dayne Reis (dayane3(at)usf.edu)
-* Publicity/Marketing: Miguel Aguilar (miguel.a.aguilar(at)aptiv.com)
+* Publicity/Marketing chair: Miguel Aguilar (miguel.a.aguilar(at)aptiv.com)
 
 
 ### Technical Program Committee
