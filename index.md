@@ -48,6 +48,7 @@ t.b.d.
 
 ## Registration
 [Registration for online participation](https://forms.gle/Vo6rTqmKRi9BdLBh6)
+
 [Registration for on-site participation](https://esweek.org/) (Registration not yet opened)
 
 ## Author Information
