@@ -76,9 +76,9 @@ Please use the [IEEE Template](https://www.ieee.org/conferences/publishing/templ
 
 ### Chairs
 For questions on specific topics, contact:
-* On-site program chair: Dennis Rieber (DennisSebastian.Rieber(at)de.bosch.com)
-* Online program chair: Dayne Reis (dayane3(at)usf.edu)
-* Publicity/Marketing chair: Miguel Aguilar (miguel.a.aguilar(at)aptiv.com)
+* On-site program chair: [Dennis Rieber](www.linkedin.com/in/dennis-sebastian-rieber-5521a614a) 
+* Online program chair: [Dayne Reis](https://www.linkedin.com/in/dayanereis/)
+* Publicity/Marketing chair: [Miguel Aguilar](https://www.linkedin.com/in/miguelaguilar/)
 
 
 ### Technical Program Committee
