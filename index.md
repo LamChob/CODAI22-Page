@@ -1,6 +1,8 @@
 # CODAI 2023
 
 ## News
+ -  August 21<sup>st</sup>: Abstract exended by one week
+ -  August 21<sup>st</sup>: on-site registration is open
  -  July 3<sup>nd</sup>: Registration for online participation is open
  -  July 2<sup>nd</sup>: Deadline Extensions
  -  May 30<sup>th</sup>: Date of the Workshop announced - September 21<sup>st</sup> 2023, 11:00 - 19:00 o'clock
@@ -34,8 +36,8 @@ The CODAI 2022 presentations can be found [here](./archive/2022).
 t.b.d.
 
 ## Important Dates
-- **Abstract submission deadline**: ~~July 6<sup>th</sup>~~ July 20<sup>th</sup>, 2023 at 23:59 AOE
-- **Paper submission deadline**: ~~July 13<sup>th</sup>~~ July 27<sup>th</sup>, 2023 at 23:59 AOE
+- **Abstract submission deadline**: ~~July 6<sup>th</sup>~~ ~~July 20<sup>th</sup>~~ July 27<sup>th</sup>, 2023 at 23:59 AOE
+- **Paper submission deadline**: ~~July 13<sup>th</sup>~~ July 27<sup>th</sup>, 2023 at 23:59 AOE (firm)
 - **Acceptance notification**: August 10<sup>th</sup>, 2023 at 23:59 AOE
 - **Camera-ready deadline**: August 24<sup>th</sup>, 2023 at 23:59 AOE
 - **Workshop**: September 21<sup>st</sup> 2023 at 11:00 until 19:00 CET
@@ -47,15 +49,27 @@ t.b.d.
 [Submit](https://easychair.org/conferences/?conf=codai2023)
 
 ## Registration
+
+### Online participation
+
+Online participation is free of charge
+
 [Registration for online participation](https://forms.gle/Vo6rTqmKRi9BdLBh6)
 
-[Registration for on-site participation](https://esweek.org/) (Registration not yet opened)
+
+### On-site pariticipation
+
+On-site participants requires an [ESWEEK](https://www.esweek.org) registration. Workshop-only participation comes at a cost of 250 USD
+
+[Registration for on-site participation](https://web.cvent.com/event/f890240c-2c3c-4001-8a6f-0321dab18935/summary) 
 
 ## Author Information
 
 All accepted contributions will be presented the CODAI Workshop 2023. Please be available for a 20 minute on-site presentation at ESWeek, followed by a 10 minute Q&A session. 
 If you can not make the trip, you have to record a video of your talk, which will be streamed during the event. Afterwards, please be availabe for the Q&A session via Zoom.
-All talks will be recorded and live-streamed in Zoom and on YouTube. 
+All talks will be recorded and live-streamed in Zoom and on YouTube.
+
+Important: all speaker who participate on-site, require an ESWEEK registration. There is also a workshop-only option at a reduced price.
 
 
 ## Author Instructions
