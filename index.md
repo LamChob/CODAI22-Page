@@ -106,7 +106,8 @@ For questions on specific topics, contact:
 * Manuele Rusci - KU Leuven, Belgium
 * Alessandro Capotondi, Università di Modena e Reggio Emilia, Italy
 * Andres Goens - University of Edinburgh, Scotland, United Kingdom
-* Lei Yang - George Mason University, USA 
+* Lei Yang - George Mason University, USA
+* Paul Dragan - Universtiy of Duisburg-Essen, Germany
 
 
 
