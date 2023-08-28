@@ -34,7 +34,32 @@ CODAI 2022 was a great success with many contributions from academia, industry, 
 The CODAI 2022 presentations can be found [here](./archive/2022). 
 
 # Program
-t.b.d.
+
+| Introduction & Keynote                            |                                                                                                         |   |   |   |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------------|---|---|---|
+| 10:00 – 10:30                                     | Welcome Coffee                                                                                          |   |   |   |
+| 10:30 – 10:35                                     | Opening                                                                                                 |   |   |   |
+| 10:35 – 11:15                                     | Keynote: Next-generation Compilers for Emerging Systems                                                 |   |   |   |
+|                                                   |                                                                                                         |   |   |   |
+| Session 1: Deployment and Optimization Techniques |                                                                                                         |   |   |   |
+| 11:15 – 11:40                                     | Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge        |   |   |   |
+| 11:40 – 12:05                                     | Tiny Machine Learning: Enabling Intelligence on Constrained Devices                                     |   |   |   |
+| 12:05 – 12:30                                     | Hardware-Aware Network Compression: From Data to Silicon                                                |   |   |   |
+| 12:30 – 13:30                                     | Lunch Break                                                                                             |   |   |   |
+|                                                   |                                                                                                         |   |   |   |
+| Session 2: Compilation Frameworks and Techniques  |                                                                                                         |   |   |   |
+| 13:30 – 13:55                                     | Accelerating Edge AI with Morpher: An Integrated Design, Compilation and Simulation Framework for CGRAs |   |   |   |
+| 13:55 – 14:20                                     | Towards Rapid Exploration of Heterogeneous TinyML Systems using Virtual Platforms and TVM's UMA         |   |   |   |
+| 14:20 – 14:45                                     | ART: An Actor transition systems RunTime for enabling efficient partitioning of neural network graphs   |   |   |   |
+| 14:45 – 15:10                                     | SYCL – A Modern C++ Programming Model for Accelerators                                                  |   |   |   |
+| 15:10 – 15:40                                     | Coffee Break                                                                                            |   |   |   |
+|                                                   |                                                                                                         |   |   |   |
+| Session 3: Applications                           |                                                                                                         |   |   |   |
+| 15:40 – 16:05                                     | Temporal Patience: Efficient Adaptive Deep Learning for Embedded Radar Data Processing                  |   |   |   |
+| 16:05 – 16:30                                     | Pros and Cons of Executable Neural Networks for Deeply Embedded Systems                                 |   |   |   |
+| 16:30 – 16:55                                     | Software and Hardware for Sparse ML                                                                     |   |   |   |
+| 16:55 – 17:00                                     | Closing remarks                                                                                         |   |   |   |
+
 
 ## Important Dates
 - **Abstract submission deadline**: ~~July 6<sup>th</sup>~~ ~~July 20<sup>th</sup>~~ July 27<sup>th</sup>, 2023 at 23:59 AOE
