@@ -106,7 +106,7 @@ ACM accepted the proposal to publish the CODAI proceedings in the [ACM digital l
 
 ~~The proceeddings will be published on [arXiv.org](https://arxiv.org/). Additionally, we are currently in negotiation with IEEE/ACM to publish the proceedings additionally via [IEEExplore](https://ieeexplore.ieee.org)/[ACM-DL](https://dl.acm.org/). Updates on this matter will follow soon.~~
 
-Please use the [IEEE Template](https://www.ieee.org/conferences/publishing/templates.html) for your manuscript. Your paper must not exceed a length of 4 pages excluding references.
+Please use the ACM Template for your manuscript. Your paper must not exceed a length of 6 pages including references.
 
 # Organization
 ### Organization Committee
