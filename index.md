@@ -1,6 +1,7 @@
 # CODAI 2023
 
 ## News
+ -  August 30<sup>st</sup>: ACM accepted to publish CODAI proceedings
  -  August 22<sup>nd</sup>: Camera-ready deadline extended
  -  August 21<sup>st</sup>: Abstract exended by one week
  -  August 21<sup>st</sup>: on-site registration is open
@@ -66,7 +67,7 @@ The CODAI 2022 presentations can be found [here](./archive/2022).
 - **Paper submission deadline**: ~~July 13<sup>th</sup>~~ July 27<sup>th</sup>, 2023 at 23:59 AOE (firm)
 - **Acceptance notification**: August 10<sup>th</sup>, 2023 at 23:59 AOE
 - **Camera-ready deadline**: ~~August 24<sup>th</sup>~~ August 31<sup>st</sup>, 2023 at 23:59 AOE
-- **Workshop**: September 21<sup>st</sup> 2023 at 11:00 until 19:00 CET
+- **Workshop**: September 21<sup>st</sup> 2023 at 10:00 until 17:00 CET
 
 ## Call For Papers
 [Call for papers for CODAI'23 workshop](assets/documents/CODAI23_CFP.pdf)
@@ -100,7 +101,10 @@ Important: all speaker who participate on-site, require an ESWEEK registration. 
 
 ## Author Instructions
 
-The proceeddings will be published on [arXiv.org](https://arxiv.org/). Additionally, we are currently in negotiation with IEEE/ACM to publish the proceedings additionally via [IEEExplore](https://ieeexplore.ieee.org)/[ACM-DL](https://dl.acm.org/). Updates on this matter will follow soon.
+ACM accepted the proposal to publish the CODAI proceedings in the [ACM digital library]{https://dl.acm.org/}. Please prepare the paper as given by the instruction that you received via E-Mail from ACM.
+
+
+~~The proceeddings will be published on [arXiv.org](https://arxiv.org/). Additionally, we are currently in negotiation with IEEE/ACM to publish the proceedings additionally via [IEEExplore](https://ieeexplore.ieee.org)/[ACM-DL](https://dl.acm.org/). Updates on this matter will follow soon.~~
 
 Please use the [IEEE Template](https://www.ieee.org/conferences/publishing/templates.html) for your manuscript. Your paper must not exceed a length of 4 pages excluding references.
 
