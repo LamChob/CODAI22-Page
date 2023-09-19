@@ -1,7 +1,8 @@
 # CODAI 2023
 
 ## News
- -  September 15<sup>st</sup>: Added "How To Find Us" Section
+ -  September 19<sup>th</sup>: Added Zoom Link
+ -  September 15<sup>th</sup>: Added "How To Find Us" Section
  -  August 30<sup>st</sup>: ACM accepted to publish CODAI proceedings
  -  August 22<sup>nd</sup>: Camera-ready deadline extended
  -  August 21<sup>st</sup>: Abstract exended by one week
@@ -34,7 +35,7 @@ Topics for workshop submissions include, but are not limited to:
 
 On-Site: The workshop will be held in Building H, Ground Floor, Room H0.07 of the ESWeek Conference Venue. More Infomation [here](https://esweek.org/venue-floorplan/)
 
-Online: We will post a link to the Zoom Meeting before the event starts here on the Website. 
+Online: [Zoom](https://us06web.zoom.us/j/87309580132)
 
 ## Review
 CODAI 2022 was a great success with many contributions from academia, industry, and international tech leaders. We accepted five high-quality papers and were positively surprised by the quality and extensiveness of submitted papers (one paper even open sourced their code on GitHub after the notification of acceptance). 
