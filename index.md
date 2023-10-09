@@ -1,6 +1,8 @@
 # CODAI 2023
 
 ## News
+ -  September 19<sup>th</sup>: Added Zoom Link
+ -  September 15<sup>th</sup>: Added "How To Find Us" Section
  -  August 30<sup>st</sup>: ACM accepted to publish CODAI proceedings
  -  August 22<sup>nd</sup>: Camera-ready deadline extended
  -  August 21<sup>st</sup>: Abstract exended by one week
@@ -29,6 +31,12 @@ Topics for workshop submissions include, but are not limited to:
 - Novel brain-inspired algorithm for Edge AI
 - Compiler and optimization techniques for beyond-von-Neumann AI accelerators
 
+## How to Find Us
+
+On-Site: The workshop will be held in Building H, Ground Floor, Room H0.07 of the ESWeek Conference Venue. More Infomation [here](https://esweek.org/venue-floorplan/)
+
+Online: [Zoom](https://us06web.zoom.us/j/87309580132)
+
 ## Review
 CODAI 2022 was a great success with many contributions from academia, industry, and international tech leaders. We accepted five high-quality papers and were positively surprised by the quality and extensiveness of submitted papers (one paper even open sourced their code on GitHub after the notification of acceptance). 
 
@@ -36,30 +44,30 @@ The CODAI 2022 presentations can be found [here](./archive/2022).
 
 # Program
 
-| Introduction & Keynote                            |                                                                                                         |   |   |   |
+| Introduction & Keynote                            | Title                                                                                                   | Authors  | Affiliation  | Online/On-Site  |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------|---|---|---|
 | 10:00 – 10:30                                     | Welcome Coffee                                                                                          |   |   |   |
-| 10:30 – 10:35                                     | Opening                                                                                                 |   |   |   |
-| 10:35 – 11:15                                     | Keynote: Next-generation Compilers for Emerging Systems                                                 |   |   |   |
+| 10:30 – 10:35                                     | Opening                                                                                                 | CODAI Team  |   |   |
+| 10:35 – 11:15                                     | Keynote: Next-generation Compilers for Emerging Systems                                                 | Jeronimo Castrillon  | Technical University of Dresden  |   |
 |                                                   |                                                                                                         |   |   |   |
 | Session 1: Deployment and Optimization Techniques |                                                                                                         |   |   |   |
-| 11:15 – 11:40                                     | Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge        |   |   |   |
-| 11:40 – 12:05                                     | Tiny Machine Learning: Enabling Intelligence on Constrained Devices                                     |   |   |   |
-| 12:05 – 12:30                                     | Hardware-Aware Network Compression: From Data to Silicon                                                |   |   |   |
+| 11:15 – 11:40                                     | Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge        | Yao Lu, Hiram Rayo Torres Rodriguez, Sebastian Vogel, Nick van de Waterlaat, Pavol Jancura  | NXP Semiconductors, Eindhoven University of Technology  |   |
+| 11:40 – 12:05                                     | Invited Talk: Tiny Machine Learning: Enabling Intelligence on Constrained Devices                       | Fouad Sakr  | Aptiv |   |
+| 12:05 – 12:30                                     | Invited Talk: Hardware-Aware Network Compression: From Data to Silicon                                  | Thomas Pfeil  |  Recogni |   |
 | 12:30 – 13:30                                     | Lunch Break                                                                                             |   |   |   |
 |                                                   |                                                                                                         |   |   |   |
 | Session 2: Compilation Frameworks and Techniques  |                                                                                                         |   |   |   |
-| 13:30 – 13:55                                     | Accelerating Edge AI with Morpher: An Integrated Design, Compilation and Simulation Framework for CGRAs |   |   |   |
-| 13:55 – 14:20                                     | Towards Rapid Exploration of Heterogeneous TinyML Systems using Virtual Platforms and TVM's UMA         |   |   |   |
-| 14:20 – 14:45                                     | ART: An Actor transition systems RunTime for enabling efficient partitioning of neural network graphs   |   |   |   |
-| 14:45 – 15:10                                     | SYCL – A Modern C++ Programming Model for Accelerators                                                  |   |   |   |
+| 13:30 – 13:55                                     | Accelerating Edge AI with Morpher: An Integrated Design, Compilation and Simulation Framework for CGRAs | Dhananjaya Wijerathne, Zhaoying Li, Tulika Mitra | National University of Singapore  |   |
+| 13:55 – 14:20                                     | Towards Rapid Exploration of Heterogeneous TinyML Systems using Virtual Platforms and TVM's UMA         | Samira Ahmadifarsani, Rafael Stahl, Philipp van Kempen, Daniel Mueller-Gritschneder, Ulf Schlichtmann  | Technical University of Munich  |   |
+| 14:20 – 14:45                                     | ART: An Actor transition systems RunTime for enabling efficient partitioning of neural network graphs   | Endri Bezati  |  Huawei Zurich Research Center |   |
+| 14:45 – 15:10                                     | Invited Talk: SYCL – A Modern C++ Programming Model for Accelerators                                    | Lukas Sommer | Codeplay  |   |
 | 15:10 – 15:40                                     | Coffee Break                                                                                            |   |   |   |
 |                                                   |                                                                                                         |   |   |   |
 | Session 3: Applications                           |                                                                                                         |   |   |   |
-| 15:40 – 16:05                                     | Temporal Patience: Efficient Adaptive Deep Learning for Embedded Radar Data Processing                  |   |   |   |
-| 16:05 – 16:30                                     | Pros and Cons of Executable Neural Networks for Deeply Embedded Systems                                 |   |   |   |
-| 16:30 – 16:55                                     | Software and Hardware for Sparse ML                                                                     |   |   |   |
-| 16:55 – 17:00                                     | Closing remarks                                                                                         |   |   |   |
+| 15:40 – 16:05                                     | Temporal Patience: Efficient Adaptive Deep Learning for Embedded Radar Data Processing                  | Max Sponner, Julius Ott, Lorenzo Servadei, Bernd Waschneck, Robert Wille, Akash Kumar  | Technical University of Munich, Infineon Dresden Technologies GmbH& Co. KG  |   |
+| 16:05 – 16:30                                     | Pros and Cons of Executable Neural Networks for Deeply Embedded Systems                                 | Matheus Ferraz, Birte Friesel, Olaf Spinczyk  |  Osnarbrück University |   |
+| 16:30 – 16:55                                     | Invited Talk: Software and Hardware for Sparse ML                                                       | Fredrik Kjolstad  |  Stanford University  | Video/Online Talk  |
+| 16:55 – 17:00                                     | Closing remarks                                                                                         |  CODAI Team  |   |   |
 
 
 ## Important Dates
