@@ -48,7 +48,7 @@ The CODAI 2022 presentations can be found [here](./archive/2022).
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------|---|---|---|
 | 10:00 – 10:30                                     | Welcome Coffee                                                                                          |   |   |   |
 | 10:30 – 10:35                                     | Opening                                                                                                 | CODAI Team  |   |   |
-| 10:35 – 11:15                                     | Keynote: Next-generation Compilers for Emerging Systems                                                 | Jeronimo Castrillon  | Technical University of Dresden  |   |
+| 10:35 – 11:15                                     | Keynote: Next-generation Compilers for Emerging Systems                                                 | Jeronimo Castrillon  | Technical University of Dresden  | [PPT](slides/CODAI2023_Keynote.pptx)  |
 |                                                   |                                                                                                         |   |   |   |
 | Session 1: Deployment and Optimization Techniques |                                                                                                         |   |   |   |
 | 11:15 – 11:40                                     | Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge        | Yao Lu, Hiram Rayo Torres Rodriguez, Sebastian Vogel, Nick van de Waterlaat, Pavol Jancura  | NXP Semiconductors, Eindhoven University of Technology  | [PDF](slides/CODAI2023_QA-BWNAS_YaoLu.pdf)  |
